@@ -1,0 +1,134 @@
+html,
+body {
+    margin: 0px;
+    padding: 0;
+}
+
+h2 {
+    font-size: px;
+}
+
+#one,#two,#three,#four,#five,#six,
+#seven,#eight,#nine,#ten,#eleven,
+#twelve,#thirteen,#fourteen
+{
+    font-size: 30px;
+    font-weight: bolder; 
+    border: 6px solid rgb(255, 255, 255);
+    background-color: rgb(255, 175, 175);
+    border-radius: 20px 20px;   
+}
+
+
+
+
+
+
+/*------header section ------*/
+
+.header-section {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.site-logo {
+	display: inline-block;
+	padding: 5px 5px 2px;
+    background-color: rgb(0, 0, 0);
+}
+
+.main-menu {
+    display: inline-block;
+    
+}
+
+.main-menu li {
+    display: inline-block;
+    
+}
+
+.main-menu li a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 50px;
+    
+}
+
+.hero-section {
+    background-color: #f0bfbf;  
+    height: 100%;
+}
+
+.spad { 
+    padding-bottom: 9000px;
+}
+
+.job-introduction-title {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom:;
+    
+}
+
+.job-introduction-title-name {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+
+.job-introduction {
+    color: white;
+    font-size: 20px;
+
+}
+
+.job-introduction a{
+    color:white;
+    text-decoration: none;
+    padding: 8px;
+    border: black;
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgb(255, 157, 157);
+    border-radius: 20px 20px;   
+    
+}
+
+
+
+.photo4 {
+    color: black    ;
+}
+
+
+.photo4-title {
+    color:white;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+.photo4-content {
+    text-align: center;
+}
+
+
+
+.photo4-explanation {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: rgb(255, 128, 128);
+    border-radius: 200px 200px;  
+    
+}
+
+.archaeologist {
+    display: flex;
+    
+}

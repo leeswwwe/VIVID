@@ -1,0 +1,107 @@
+html,
+body {
+    margin: 0px;
+    padding: 0;
+}
+
+h2 {
+    font-size: px;
+}
+
+/*------header section ------*/
+
+.header-section {
+    background-color: black;
+    background-size: -10px;
+    display: flex;
+    align-items: center;
+    position:absolute;
+    width: 100%;
+}
+
+.site-logo {
+	display: inline-block;
+	padding: 5px 5px 2px;
+    background-color: black;
+  
+    
+}
+
+.main-menu {
+    display: inline-block;
+    
+}
+
+.main-menu li {
+    display: inline-block;
+    
+}
+
+.main-menu li a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 50px;
+    
+}
+
+.hero-section {
+    height: 100%;
+    text-align:center;
+}
+
+
+.hero-item .container {
+    position: relative;
+    position: absolute;
+    left: 500px;
+}
+
+.low {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.hero-item h2 {
+    font-size: 96px;
+	font-weight: 700;
+    color: rgb(255, 255, 255);
+    margin-bottom: -20px;   
+}
+
+.hero-item p {
+    color: white;
+    text-align:center;
+    font-size: 20px;
+}
+
+.hero-item,
+.hero-item p,
+.hero-item h2 {
+	position: relative;
+	bottom: 300px;
+	opacity: 0.99;
+}
+
+.side-bar{
+    height: 10px;
+    background-color: #1c1c1c;
+    margin-top: -4px;
+
+}
+
+
+.blog-section {
+    background-color: #1c1c1c;
+}
+
+.spad {
+    padding-top: 106px;
+    padding-bottom: 106px;
+}
+
+.container {
+    color: white;
+}
